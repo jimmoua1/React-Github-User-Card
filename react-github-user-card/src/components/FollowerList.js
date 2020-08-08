@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import axios from "axios";
+import FollowerCard from '../components/FollowerCard';
 
 class FollowerList extends Component {
   constructor() {
